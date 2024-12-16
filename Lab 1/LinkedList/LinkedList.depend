@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734389190 source:/media/banna/DATA/Courses/ITI 9m/Data Structure & Algorithms/Lab 1/LinkedList/main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Node.h"
+
+1734389716 /media/banna/DATA/Courses/ITI 9m/Data Structure & Algorithms/Lab 1/LinkedList/include/LinkedList.h
+	"Node.h"
+
+1734382800 /media/banna/DATA/Courses/ITI 9m/Data Structure & Algorithms/Lab 1/LinkedList/include/Node.h
+
