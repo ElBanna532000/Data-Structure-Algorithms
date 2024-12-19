@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734612027 source:/media/banna/DATA/Courses/ITI 9m/Data Structure & Algorithms/Lab 1/CircularQueue/main.cpp
+	<iostream>
+	"ArrayQueue.h"
+
+1734613508 /media/banna/DATA/Courses/ITI 9m/Data Structure & Algorithms/Lab 1/CircularQueue/include/ArrayQueue.h
+
