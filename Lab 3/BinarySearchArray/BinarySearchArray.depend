@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734712509 source:/media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BinarySearchArray/main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734712793 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BinarySearchArray/include/LinkedList.h
+	"Node.h"
+
+1734706059 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BinarySearchArray/include/Node.h
+

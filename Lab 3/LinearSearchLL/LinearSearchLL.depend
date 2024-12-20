@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734704539 source:/media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/LinearSearchLL/main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734704602 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/LinearSearchLL/include/LinkedList.h
+	"Node.h"
+
+1734704063 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/LinearSearchLL/include/Node.h
+

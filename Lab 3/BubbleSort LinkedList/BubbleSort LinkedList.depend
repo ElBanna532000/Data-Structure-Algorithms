@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734728215 source:/media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BubbleSort LinkedList/main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1734731012 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BubbleSort LinkedList/include/LinkedList.h
+	"Node.h"
+
+1734703412 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 2/BubbleSort LinkedList/include/Node.h
+
+1734728215 source:/media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 3/BubbleSort LinkedList/main.cpp
+	<iostream>
+	"LinkedList.h"
+
