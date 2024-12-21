@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734820213 source:/media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 4/BinarySearchTree/main.cpp
+	<iostream>
+	"include/BinaryTree.h"
+
+1734820262 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 4/BinarySearchTree/include/BinaryTree.h
+	"Node.h"
+
+1734807194 /media/banna/DATA/Courses/ITI 9m/Data-Structure-Algorithms/Lab 4/BinarySearchTree/include/Node.h
+
