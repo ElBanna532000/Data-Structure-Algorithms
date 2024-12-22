@@ -17,6 +17,9 @@ int main()
     l.add(75);
     l.add(85);
     l.add(45);
+    l.displayAll();
+    cout<<"Max element in Tree is: "<<l.getMaxInTree()<<endl;
+    cout<<"Min element in Tree is: "<<l.getMinInTree()<<endl;
 
 
     try{

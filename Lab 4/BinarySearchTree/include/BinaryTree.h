@@ -1,6 +1,7 @@
 #ifndef BINARYTREE_H
 #define BINARYTREE_H
 #include "Node.h"
+using namespace std;
 
 class BinaryTree
 {
@@ -57,6 +58,23 @@ class BinaryTree
 
     }
 
+    Node* getMinLeft(Node* node){
+        Node* current = node;
+        while(current->left != NULL){
+            current=current->left;
+        }
+        return current;
+    }
+
+    void display(Node* node){
+        if(node == NULL){
+            return;
+        }
+        display(node->left);
+        cout <<node->data<<" ";
+        display(node->right);
+    }
+
     public:
         BinaryTree() {
             root=NULL;
@@ -110,6 +128,20 @@ class BinaryTree
             Node* maxR = getMaxRight(node);
             return maxR->data;
 
+        }
+
+        int getMaxInTree(){
+            Node* maxRight = getMaxRight(root);
+            return maxRight->data;
+        }
+
+        int getMinInTree(){
+            Node* minLeft = getMinLeft(root);
+            return minLeft->data;
+        }
+
+        void displayAll(){
+            display(root);
         }
 
         void removeNode(int data){
